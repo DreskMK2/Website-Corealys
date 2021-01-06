@@ -1,3 +1,9 @@
+# Corealys website
+Website created using Landing Page Jekyll theme 
+The teamplate was edited by Pedro Gomez
+
+All credit to the original author, and all information of this theme below, alongside with links to the original teamplate.
+
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
