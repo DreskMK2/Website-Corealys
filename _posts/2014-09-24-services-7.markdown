@@ -1,10 +1,8 @@
 ---
 layout: default
 category: Services
-title: Company themed keyboard and input devices. 
-description: |
+title: Truck timer and emissions calculation tool. 
+description: | Currently ongoing
 ---
+Managed a team to develop a tool for an asiciation of truckers, the aim of the tool was to obtain the calculation of truck routes, estimated time and fuel usage with the inclusion of a EN16258 estimation of emissions for the given route.
 
-We offer to build keyboards with your company theme in mind. A perfect way to celebrate milestones, while showing care for the confort and value to the employee.
-
-We also offer to to theme your custom input devices for a perfect match between optimization and style.
