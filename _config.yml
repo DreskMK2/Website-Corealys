@@ -4,7 +4,7 @@
 
 url: http://corealys.com
 title: Corealys
-email: info@corealys.com
+email: 
 author: Pedro Gomez
 description: > # "Write an awesome description for your new site here. 
   Helping companies develop better products.
@@ -27,6 +27,3 @@ social:
   - title: LinkedIn
     fatitle: linkedin
     url: https://www.linkedin.com/company/corealys
-  - title: Email
-    fatitle: envelope
-    url: mailto:info@corealys.com
